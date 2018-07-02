@@ -558,7 +558,7 @@ for m in re.finditer(r"\w+ly", text):
 >>> 40-47: quickly
 ``` 
 
-# Complexitat dels algorismes i treball amb fitxers
+# Sessió 5. Complexitat dels algorismes i treball amb fitxers
 
 En aquesta sessió es reforcen els conceptes bàsics per calcular la complexitat d'un algorisme. També es veuen les funcions de Python relacionades amb la lectura i escriptura de fitxers.
 
@@ -836,7 +836,7 @@ Les explicacions, exemples i exercicis s'han basat en les següents fonts:
 - Python for beginners "Reading and writing files in Python. Overview" http://www.pythonforbeginners.com/files/reading-and-writing-files-in-python
 
 
-# Sessió 6 de problemes: Ordenació i cerca.
+# Sessió 6: Ordenació i cerca.
 
 En aquesta sessió revisem i apliquem els principals algorismes d'ordenació i cerca vistos a teoria. La majoria de problemes en que volem moure elements en una llista o cercar alguns valors específics són variacions d'aquests problemes.
 
